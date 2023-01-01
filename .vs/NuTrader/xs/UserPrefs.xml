@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BBD77933-8FBC-4C4F-9E6D-38CEA2EFE5C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.NuTrader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NuTrader/Program.cs">
+    <Files>
+      <File FileName="NuTrader/Program.cs" Line="37" Column="3" />
+      <File FileName="NuTrader/PredictItContract.cs" />
+      <File FileName="NuTrader/PredictItMarket.cs" />
+      <File FileName="NuTrader/CsvFile.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NuTrader" expanded="True">
+            <Node name="NuTrader" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/Program.cs" relfile="NuTrader/Program.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

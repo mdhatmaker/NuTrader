@@ -1,0 +1,15 @@
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/bin/Debug/net6.0/NuTrader
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/bin/Debug/net6.0/NuTrader.deps.json
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/bin/Debug/net6.0/NuTrader.runtimeconfig.json
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/bin/Debug/net6.0/NuTrader.dll
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/bin/Debug/net6.0/NuTrader.pdb
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.csproj.AssemblyReference.cache
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.AssemblyInfoInputs.cache
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.AssemblyInfo.cs
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.csproj.CoreCompileInputs.cache
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.dll
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/refint/NuTrader.dll
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.pdb
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/NuTrader.genruntimeconfig.cache
+/Users/michael/Git/mdhatmaker/NuTrader/NuTrader/obj/Debug/net6.0/ref/NuTrader.dll
